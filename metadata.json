@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Password Strengthener",
+  "description": "A science-fair project by Our Lady of Mt. Carmel Maryhill Girls High School that analyzes password vulnerabilities and provides intelligent strengthening suggestions.",
+  "requestFramePermissions": []
+}
